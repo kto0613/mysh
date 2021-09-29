@@ -1,0 +1,1 @@
+gcc mysh_ubuntu.c -o mysh
